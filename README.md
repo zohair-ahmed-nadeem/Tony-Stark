@@ -1,6 +1,6 @@
-# Shapater Discord Bot
+# Tony Stark Discord Bot
 
-Shapater is a feature-rich Discord bot designed to enhance server management, moderation, and user interaction. It includes a variety of commands and functionalities to make your Discord experience seamless and enjoyable.
+Tony is a feature-rich Discord bot designed to enhance server management, moderation, and user interaction. It includes a variety of commands and functionalities to make your Discord experience seamless and enjoyable.
 
 ## Features
 
