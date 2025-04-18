@@ -98,5 +98,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Powered by Discord.py and Groq AI.
   
 ## Links
-[Invite the Bot]("https://discord.com/oauth2/authorize?client_id=1184035274037137478&permissions=8&integration_type=0&scope=bot")
-[Support Server](https://discord.gg/GXuZVF4573)
+- [Invite the Bot](https://discord.com/oauth2/authorize?client_id=1184035274037137478&permissions=8&integration_type=0&scope=bot)
+- [Support Server](https://discord.gg/GXuZVF4573)
